@@ -27,3 +27,10 @@ A student can publish different publications. Each publication has a date when i
 
 ## Payment
 The postgrad office keeps track of the total amount, fund percentage, number of installments, and payment ID. Some publications have payment. Each payment can be divided into one or more installments. Each installment will have a date, amount, and status (paid or not).
+
+## Authors 
+1. [Salma Sleem](https://github.com/salmasleem)
+2. [Malak El Kashab](https://github.com/malakel-khashab)
+3. 
+4.  
+
